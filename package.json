@@ -1,0 +1,20 @@
+{
+  "name": "nznews-cabanzo-cinthya",
+  "version": "1.0.0",
+  "description": "Sitio web de noticias usando React, Redux, Jest y manejo del API https://canillitapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cinthylli/nznews-cabanzo-cinthya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cinthylli/nznews-cabanzo-cinthya/issues"
+  },
+  "homepage": "https://github.com/cinthylli/nznews-cabanzo-cinthya#readme"
+}
